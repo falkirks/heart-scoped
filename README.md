@@ -1,3 +1,5 @@
+![eg](/eg.gif)
+
 heart-scoped
 ============
 
@@ -13,3 +15,10 @@ This is a little express app that displays a heart. Users can click the heart an
 /bar/one ("bar.one": can see pulses in bar.one.*)
 ```
 
+### Setup
+```
+git clone https://github.com/Falkirks/heart-scoped
+cd heart-scoped
+npm install
+npm start
+```
